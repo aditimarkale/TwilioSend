@@ -6,7 +6,7 @@
     $auth_token = '6a7fed7f68a9d89d75996bc165982d2b'; 
     $client = new Client($account_sid, $auth_token); 
  
-    $messages = $client->messages->create("+12678108571", array( 
+    $messages = $client->messages->create("+19173490168", array( 
         'From' => "+12674407881",  
         'Body' => "Hello from Aditi Markale CS 643 Fall 2017 ",      
   ));
