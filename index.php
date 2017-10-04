@@ -8,6 +8,6 @@
  
     $messages = $client->messages->create("+12678108571", array( 
         'From' => "+12674407881",  
-        'Body' => "Hello aditi",      
+        'Body' => "Hello from Aditi Markale CS 643 Fall 2017 ",      
   ));
 ?>
